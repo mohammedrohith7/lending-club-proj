@@ -1,4 +1,4 @@
 #This is main file..
 
 
-#adding new featture - feature1
+#adding new feature - feature1
